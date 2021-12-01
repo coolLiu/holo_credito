@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="themeColor">#9E56FF</color>
+    <color name="gradientBackGroundStartColor">#9E56FF</color>
+    <color name="gradientBackGroundEndColor">#C254FF</color>
+
+
+    <color name="gradientButtonStartColor1">#AC55FF</color>
+    <color name="gradientButtonEndColor1">#9E56FF</color>
+
+    <color name="gradientButtonStartColor2">#FF7A55</color>
+    <color name="gradientButtonEndColor2">#FF6C56</color>
+
+</resources>
